@@ -1,0 +1,15 @@
+//
+//  MyPch.pch
+//  ScanCode
+//
+//  Created by liquan on 2017/4/17.
+//  Copyright © 2017年 liquan. All rights reserved.
+//
+
+#ifndef MyPch_pch
+#define MyPch_pch
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+#import "Masonry.h"
+
+#endif /* MyPch_pch */
